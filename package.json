@@ -1,0 +1,24 @@
+{
+  "name": "randon-str-msg-luda",
+  "version": "1.0.0",
+  "description": "randon stri mensaje luda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alvadaza/randon-str-msg-luda.git"
+  },
+  "keywords": [],
+  "author": "Alvaro Daza <alvarodaza48@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/gndx/random-str-msg#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
